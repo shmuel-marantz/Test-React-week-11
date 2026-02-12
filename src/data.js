@@ -1,4 +1,4 @@
-const list1 = [
+export const list1 = [
   {
     name: "Walid Shami",
     organization: "Black Cedar Brigade",
